@@ -1,0 +1,3 @@
+/dev.env
+/internal/app/dev_env.go
+.idea/**
